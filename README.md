@@ -65,6 +65,22 @@ NVENC capacity varies within a generation because some GPUs contain more than on
 
 For 4K sources, start with roughly half the suggested 1080p value. Deinterlacing, 10-bit video, slow storage, multiple audio streams, or demanding quality settings may require reducing it further. Increase by one job at a time; if total throughput stops improving, temperatures rise excessively, or jobs become unstable, return to the previous value.
 
+## Expected file-size and quality changes
+
+H.265/HEVC is generally more efficient than H.264, but every conversion is different. These are practical estimates for ordinary H.264 sources; they are not guaranteed results.
+
+| Conversion goal | Expected file-size reduction | Estimated perceived quality reduction |
+|---|---:|---:|
+| High quality | 15–35% | 0–5% |
+| Balanced | 30–50% | 3–10% |
+| Maximum space savings | 50–70% | 10–25% |
+
+With the Intel launcher's default `QSVQUALITY=20`, a reasonable first expectation is approximately **25–50% smaller files** with roughly **0–8% perceived quality reduction**. NVIDIA NVENC should generally fall within similar ranges when configured for comparable quality, although results vary by GPU generation and encoder preset.
+
+The quality percentage is a plain-language visual estimate, not a direct measurement. Re-encoding is always lossy, even when the difference is difficult to see. Animation, film grain, dark scenes, fast motion, low-bitrate sources, and already heavily compressed files may behave very differently. An efficient source may shrink by less than 15%, fail to shrink at all, or become larger.
+
+Test several representative videos before converting a library. Compare motion, dark scenes, fine texture, subtitles, and audio in the result. If quality loss is noticeable, use a higher-quality setting; if the files are not becoming small enough, choose a more aggressive setting. Intel notes that HEVC generally provides additional compression over H.264 without requiring a corresponding visible quality loss, but exact results depend on the source and encoder configuration.
+
 ## Shared monitor
 
 The monitor is hardware-independent. It can display logs from Intel Quick Sync, AMD AMF, and NVIDIA NVENC converters as long as they use the same `Watcher_*.log` naming and logging format.
