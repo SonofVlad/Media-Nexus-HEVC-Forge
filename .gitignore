@@ -1,0 +1,9 @@
+FFmpeg/
+_logs/
+_state/
+_PROCESSED/
+*.log
+*.part
+*.tmp
+*.failed.txt
+*.processed.txt
