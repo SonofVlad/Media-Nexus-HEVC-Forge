@@ -7,10 +7,10 @@ A Windows PowerShell watcher that converts H.264 video to H.265/HEVC with FFmpeg
 | Hardware | FFmpeg encoder | Status |
 |---|---|---|
 | Intel Quick Sync | `hevc_qsv` | Available |
-| NVIDIA NVENC | `hevc_nvenc` | In testing |
+| NVIDIA NVENC | `hevc_nvenc` | Available |
 | AMD AMF | `hevc_amf` | Planned |
 
-The currently published converter supports Intel Quick Sync. The monitor works with all three versions.
+Intel Quick Sync and NVIDIA NVENC converters are available. The monitor works with Intel, NVIDIA, and future AMD versions.
 
 ## Requirements
 
@@ -26,14 +26,14 @@ FFmpeg\bin\
 
 ## Converter setup
 
-Keep these files together:
+Keep the matching launcher and script together with `FFmpeg\bin\ffmpeg.exe` and `FFmpeg\bin\ffprobe.exe`.
 
-- `H.265ConverterINTEL.bat`
-- `H.265ConverterINTEL.ps1`
-- `FFmpeg\bin\ffmpeg.exe`
-- `FFmpeg\bin\ffprobe.exe`
+| Hardware | Launcher | PowerShell script |
+|---|---|---|
+| Intel | `H.265ConverterINTEL.bat` | `H.265ConverterINTEL.ps1` |
+| NVIDIA | `H.265ConverterNVIDIA.bat` | `H.265ConverterNVIDIA.ps1` |
 
-Run `H.265ConverterINTEL.bat`. Enter the input, output, and quarantine folders when prompted, or set them in the batch file's **EDIT THESE VALUES ONLY** section.
+Run the launcher for your hardware. Enter the input, output, and quarantine folders when prompted, or set them in the batch file's **EDIT THESE VALUES ONLY** section.
 
 > Test with copied media first. Completed or failed source files may be moved to `_PROCESSED` or the quarantine folder.
 
