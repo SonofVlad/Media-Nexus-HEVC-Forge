@@ -41,18 +41,24 @@ Run `H.265ConverterINTEL.bat`. Enter the input, output, and quarantine folders w
 
 These are conservative starting points for 1080p video. Use roughly half as many jobs for 4K.
 
-| Hardware generation | Suggested `PARALLEL` |
-|---|---:|
-| Intel Core 6th–7th generation | 1 |
-| Intel Core 8th–10th generation | 1–2 |
-| Intel Core 11th–14th generation | 2–4 |
-| Intel Core Ultra or Arc | 3–6 |
-| NVIDIA Maxwell 2 | 1–2 |
-| NVIDIA Pascal | 2–3 |
-| NVIDIA Turing | 2–4 |
-| NVIDIA Ampere | 3–5 |
-| NVIDIA Ada | 4–6 |
-| NVIDIA Blackwell | 4–8 |
+| Platform | Hardware generation | Suggested `PARALLEL` |
+|---|---|---:|
+| Intel | Core 6th–7th generation | 1 |
+| Intel | Core 8th–10th generation | 1–2 |
+| Intel | Core 11th–14th generation | 2–4 |
+| Intel | Core Ultra or Arc | 3–6 |
+| AMD | Ryzen 2000G–3000G with Radeon graphics | 1 |
+| AMD | Ryzen 4000G–5000G with Radeon graphics | 1–2 |
+| AMD | Ryzen 6000–8000 with Radeon graphics | 2–4 |
+| AMD | Ryzen AI 300 with Radeon graphics | 2–4 |
+| NVIDIA | Maxwell 2 | 1–2 |
+| NVIDIA | Pascal | 2–3 |
+| NVIDIA | Turing | 2–4 |
+| NVIDIA | Ampere | 3–5 |
+| NVIDIA | Ada | 4–6 |
+| NVIDIA | Blackwell | 4–8 |
+
+AMD AMF uses Radeon graphics. A Ryzen CPU without supported integrated graphics requires a compatible Radeon graphics card.
 
 Increase `PARALLEL` one step at a time. Reduce it if temperatures rise, conversions become unstable, or total throughput stops improving.
 
