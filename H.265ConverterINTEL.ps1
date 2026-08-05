@@ -443,4 +443,392 @@ $workerScript = {
 
         if ($lines.Count -eq 0) { return $false }
 
-        foreaÛ^õ¶‰žËkºwµçE±A…Ñ €‘Ñ•µÁ=ÕÐ¤¤ì(€€€€€€€€€€€€€€€€€€€€‘É•ÍÕ±Ð¹MÑ…ÑÕÌ€ô€‰%0ˆ(€€€€€€€€€€€€€€€€€€€€‘É•ÍÕ±Ð¹9½Ñ”€ô€‰µÁ•œÍÕ•ÍÌ‰ÕÐÑ•µÀ½ÕÑÁÕÐµ¥ÍÍ¥¹œˆ(€€€€€€€€€€€€€€€€€€€€‘É•ÍÕ±Ð¹ÉÉQ•áÐ€ô€‘ÍÑ‘•ÉÈÄ¹QÉ¥´ ¤(€€€€€€€€€€€€€€€€€€€M•ÐµMÑ…ÑÕÌ€‰%0ˆ€‘É•°€‘É•ÍÕ±Ð¹9½Ñ”(€€€€€€€€€€€€€€€€€€€É•ÑÕÉ¸mÁÍÕÍÑ½µ½‰©•Ñt‘É•ÍÕ±Ð(€€€€€€€€€€€€€€€ô(€€€€€€€€€€€ô(€€€€€€€ô(€€€€€€€™¥¹…±±äì(€€€€€€€€€€€¥˜€¡Q•ÍÐµA…Ñ €µ1¥Ñ•É…±A…Ñ €‘ÍÑ‘•ÉÈÅ¥±”¤ìI•µ½Ù”µ%Ñ•´€µ1¥Ñ•É…±A…Ñ €‘ÍÑ‘•ÉÈÅ¥±”€µ½É”€µÉÉ½ÉÑ¥½¸M¥±•¹Ñ±å½¹Ñ¥¹Õ”ô(€€€€€€€€€€€¥˜€¡Q•ÍÐµA…Ñ €µ1¥Ñ•É…±A…Ñ €‘ÍÑ‘•ÉÈÉ¥±”¤ìI•µ½Ù”µ%Ñ•´€µ1¥Ñ•É…±A…Ñ €‘ÍÑ‘•ÉÈÉ¥±”€µ½É”€µÉÉ½ÉÑ¥½¸M¥±•¹Ñ±å½¹Ñ¥¹Õ”ô(€€€€€€€ô((€€€€€€€5½Ù”µ%Ñ•´€µ1¥Ñ•É…±A…Ñ €‘Ñ•µÁ=ÕÐ€µ•ÍÑ¥¹…Ñ¥½¸€‘Ñ•µÁ¥¹…±1½…°€µ½É”(€€€€€€€M•ÐµMÑ…ÑÕÌ€‰Y1%Q%9ˆ€‘É•°€ˆˆ((€€€€€€€€ŒY…±¥‘…Ñ¥½¹Ì(€€€€€€€€‘ÍÉÕÈ€ô•ÐµÕÉ…Ñ¥½¹%¹¹•È€‘ÁÉ½‰•á”€‘MÉÕ±°(€€€€€€€€‘½ÕÑÕÈ€ô•ÐµÕÉ…Ñ¥½¹%¹¹•È€‘ÁÉ½‰•á”€‘Ñ•µÁ¥¹…±1½…°(€€€€€€€€‘É•ÍÕ±Ð¹MÉÕÈ€ô€‘ÍÉÕÈ(€€€€€€€€‘É•ÍÕ±Ð¹=ÕÑÕÈ€ô€‘½ÕÑÕÈ((€€€€€€€¥˜€ ‘ÍÉÕÈ€µ…¹€‘½ÕÑÕÈ¤ì(€€€€€€€€€€€€‘‘•±Ñ„€ôm5…Ñ¡tèé‰Ì ‘ÍÉÕÈ€´€‘½ÕÑÕÈ¤(€€€€€€€€€€€¥˜€ ‘‘•±Ñ„€µÐ€‘5…áÕÉ…Ñ¥½¹•±Ñ…M•½¹‘Ì¤ì(€€€€€€€€€€€€€€€€‘É•ÍÕ±Ð¹MÑ…ÑÕÌ€ô€‰EUI9Q%9ˆ(€€€€€€€€€€€€€€€€‘É•ÍÕ±Ð¹9½Ñ”€ô€ ‰ÕÉ…Ñ¥½¸µ¥Íµ…Ñ €¡‘•±Ñ„ìÁõÌ¤ˆ€µ˜€‘‘•±Ñ„¤(€€€€€€€€€€€€€€€M•ÐµMÑ…ÑÕÌ€‰EUI9Q%9ˆ€‘É•°€‘É•ÍÕ±Ð¹9½Ñ”(€€€€€€€€€€€€€€€É•ÑÕÉ¸mÁÍÕÍÑ½µ½‰©•Ñt‘É•ÍÕ±Ð(€€€€€€€€€€€ô(€€€€€€€ô((€€€€€€€€‘‘Ð€ô•½‘”µQ•ÍÑ%¹¹•È€‘µÁ•á”€‘Ñ•µÁ¥¹…±1½…°(€€€€€€€¥˜€ µ¹½Ð€‘‘Ð¹=¬¤ì(€€€€€€€€€€€€‘É•ÍÕ±Ð¹MÑ…ÑÕÌ€ô€‰EUI9Q%9ˆ(€€€€€€€€€€€€‘É•ÍÕ±Ð¹9½Ñ”€ô€‰•½‘”Ñ•ÍÐ™…¥±•ˆ(€€€€€€€€€€€€‘É•ÍÕ±Ð¹ÉÉQ•áÐ€ô€‘‘Ð¹Q•áÐ(€€€€€€€€€€€M•ÐµMÑ…ÑÕÌ€‰EUI9Q%9ˆ€‘É•°€‘É•ÍÕ±Ð¹9½Ñ”(€€€€€€€€€€€É•ÑÕÉ¸mÁÍÕÍÑ½µ½‰©•Ñt‘É•ÍÕ±Ð(€€€€€€€ô((€€€€€€€¥˜€ ‘‘Ð¹½¹Ñ…¥¹Í-•ä ‰]…É¹¥¹=¹±äˆ¤€µ…¹€‘‘Ð¹]…É¹¥¹=¹±ä¤ì(€€€€€€€€€€€¥˜€¡mÍÑÉ¥¹tèé%Í9Õ±±=É]¡¥Ñ•MÁ…” ‘É•ÍÕ±Ð¹9½Ñ”¤¤ì(€€€€€€€€€€€€€€€€‘É•ÍÕ±Ð¹9½Ñ”€ô€‰•½‘”Ù…±¥‘…Ñ¥½¸Á…ÍÍ•Ý¥Ñ ¥¹½É…‰±”QLÝ…É¹¥¹Ìˆ(€€€€€€€€€€€ô•±Í”ì(€€€€€€€€€€€€€€€€‘É•ÍÕ±Ð¹9½Ñ”€ô€ ‘É•ÍÕ±Ð¹9½Ñ”€¬€ˆð•½‘”Ù…±¥‘…Ñ¥½¸Á…ÍÍ•Ý¥Ñ ¥¹½É…‰±”QLÝ…É¹¥¹Ìˆ¤(€€€€€€€€€€€ô(€€€€€€€ô((€€€€€€€€‘½ÕÑM¥é”€ô€¡•Ðµ%Ñ•´€µ1¥Ñ•É…±A…Ñ €‘Ñ•µÁ¥¹…±1½…°¤¹1•¹Ñ (€€€€€€€€‘É•ÍÕ±Ð¹=ÕÑM¥é•5€ôm5…Ñ¡tèéI½Õ¹ ‘½ÕÑM¥é”€¼€Å5°€Ä¤((€€€€€€€€‘É…Ñ¥¼€ô€À¸À(€€€€€€€¥˜€ ‘ÍÉM¥é”€µÐ€À¤ì€‘É…Ñ¥¼€ôm‘½Õ‰±•t‘½ÕÑM¥é”€¼m‘½Õ‰±•t‘ÍÉM¥é”ô((€€€€€€€€ŒI•Í½±ÕÑ¥½¸µ…Ý…É”µ¥¹¥µÕ´½ÕÑÁÕÐÉ…Ñ¥¼è(€€€€€€€€Œ€€´M€ ðôÔÜØ¤è€Ô”(€€€€€€€€Œ€€´€ÜÈÁÀ€ ðôÜÈÀ¤è€Ô”(€€€€€€€€Œ€€´€ÄÀàÁÀ¬è€Ô”(€€€€€€€€‘¡QáÐ€ô€˜€‘ÁÉ½‰•á”€µØ•ÉÉ½È€µÍ•±•Ñ}ÍÑÉ•…µÌØèÀ€µÍ¡½Ý}•¹ÑÉ¥•ÌÍÑÉ•…´õ¡•¥¡Ð€µ½˜‘•™…Õ±Ðõ¹ÜôÄé¹¬ôÄ€‘MÉÕ±°€Èø‘¹Õ±°(€€€€€€€€‘¡•¥¡Ð€ô€À(€€€€€€€¥˜€ ‘¡QáÐ¤ìm¥¹ÑtèéQÉåA…ÉÍ” ‘¡QáÐ¹QÉ¥´ ¤°mÉ•™t‘¡•¥¡Ð¤ð=ÕÐµ9Õ±°ô((€€€€€€€€‘µ¥¹I…Ñ¥½™™•Ñ¥Ù”€ô€‘5¥¹M¥é•I…Ñ¥¼(€€€€€€€¥˜€ ‘¡•¥¡Ð€µÐ€À¤ì(€€€€€€€€€€€¥˜€ ‘¡•¥¡Ð€µ±”€ÔÜØ¤ì€‘µ¥¹I…Ñ¥½™™•Ñ¥Ù”€ô€À¸ÀÔô(€€€€€€€€€€€•±Í•¥˜€ ‘¡•¥¡Ð€µ±”€ÜÈÀ¤ì€‘µ¥¹I…Ñ¥½™™•Ñ¥Ù”€ô€À¸ÀÔô(€€€€€€€€€€€•±Í”ì€‘µ¥¹I…Ñ¥½™™•Ñ¥Ù”€ô€À¸ÀÔô(€€€€€€€ô((€€€€€€€¥˜€ ‘É…Ñ¥¼€µ±Ð€‘µ¥¹I…Ñ¥½™™•Ñ¥Ù”¤ì(€€€€€€€€€€€€‘É•ÍÕ±Ð¹MÑ…ÑÕÌ€ô€‰EUI9Q%9ˆ(€€€€€€€€€€€€‘É•ÍÕ±Ð¹9½Ñ”€ô€ ‰=ÕÑÁÕÐÑ½¼Íµ…±°€¡É…Ñ¥¼ìÀé@Áô°µ¥¸ìÄé@Áô°¡•¥¡ÐìÉô¤ˆ€µ˜€‘É…Ñ¥¼°€‘µ¥¹I…Ñ¥½™™•Ñ¥Ù”°€‘¡•¥¡Ð¤(€€€€€€€€€€€M•ÐµMÑ…ÑÕÌ€‰EUI9Q%9ˆ€‘É•°€‘É•ÍÕ±Ð¹9½Ñ”(€€€€€€€€€€€É•ÑÕÉ¸mÁÍÕÍÑ½µ½‰©•Ñt‘É•ÍÕ±Ð(€€€€€€€ô((€€€€€€€M•ÐµMÑ…ÑÕÌ€‰=Ae%9ˆ€‘É•°€ˆˆ((€€€€€€€€Œ½ÁäÑ¼Ñ¡”‘•ÍÑ¥¹…Ñ¥½¸…Ì€¹Á…ÉÐ°Ñ¡•¸É•¹…µ”Ñ¼Ñ¡”™¥¹…°™¥±”¸(€€€€€€€€‘‘•ÍÑA…ÉÐ€ô€‘‘•ÍÑ¥¹…°€¬€ˆ¹Á…ÉÐˆ(€€€€€€€¥˜€¡Q•ÍÐµA…Ñ €µ1¥Ñ•É…±A…Ñ €‘‘•ÍÑA…ÉÐ¤ìI•µ½Ù”µ%Ñ•´€µ1¥Ñ•É…±A…Ñ €‘‘•ÍÑA…ÉÐ€µ½É”€µÉÉ½ÉÑ¥½¸M¥±•¹Ñ±å½¹Ñ¥¹Õ”ô((€€€€€€€½Áäµ%Ñ•´€µ1¥Ñ•É…±A…Ñ €‘Ñ•µÁ¥¹…±1½…°€µ•ÍÑ¥¹…Ñ¥½¸€‘‘•ÍÑA…ÉÐ€µ½É”((€€€€€€€¥˜€¡Q•ÍÐµA…Ñ €µ1¥Ñ•É…±A…Ñ €‘‘•ÍÑ¥¹…°¤ìI•µ½Ù”µ%Ñ•´€µ1¥Ñ•É…±A…Ñ €‘‘•ÍÑ¥¹…°€µ½É”€µÉÉ½ÉÑ¥½¸M¥±•¹Ñ±å½¹Ñ¥¹Õ”ô(€€€€€€€5½Ù”µ%Ñ•´€µ1¥Ñ•É…±A…Ñ €‘‘•ÍÑA…ÉÐ€µ•ÍÑ¥¹…Ñ¥½¸€‘‘•ÍÑ¥¹…°€µ½É”((€€€€€€€€‘É•ÍÕ±Ð¹MÑ…ÑÕÌ€ô€‰=9ˆ(€€€€€€€M•ÐµMÑ…ÑÕÌ€‰=9ˆ€‘É•°€ˆˆ((€€€€€€€€Œ±•…¹ÕÀ±½…°Ñ•µÀ½ÕÑÁÕÐ(€€€€€€€ÑÉäìI•µ½Ù”µ%Ñ•´€µ1¥Ñ•É…±A…Ñ €‘Ñ•µÁ¥¹…±1½…°€µ½É”€µÉÉ½ÉÑ¥½¸M¥±•¹Ñ±å½¹Ñ¥¹Õ”ô…Ñ íô((€€€€€€€É•ÑÕÉ¸mÁÍÕÍÑ½µ½‰©•Ñt‘É•ÍÕ±Ð(€€€ô(€€€…Ñ ì(€€€€€€€€‘É•ÍÕ±Ð¹MÑ…ÑÕÌ€ô€‰%0ˆ(€€€€€€€€‘É•ÍÕ±Ð¹9½Ñ”€ô€‰á•ÁÑ¥½¸ˆ(€€€€€€€€‘É•ÍÕ±Ð¹ÉÉQ•áÐ€ô€‘|¹á•ÁÑ¥½¸¹5•ÍÍ…”(€€€€€€€M•ÐµMÑ…ÑÕÌ€‰%0ˆ€¡½…±•Í•%¹¹•È€‘É•ÍÕ±Ð¹I•±A…Ñ €ˆ¡Õ¹­¹½Ý¸¤ˆ¤€‘É•ÍÕ±Ð¹9½Ñ”(€€€€€€€É•ÑÕÉ¸mÁÍÕÍÑ½µ½‰©•Ñt‘É•ÍÕ±Ð(€€€ô(€€€™¥¹…±±äì(€€€€€€€ÑÉäìI•µ½Ù”µ%Ñ•´€µ1¥Ñ•É…±A…Ñ €‘ÍÑ…ÑÕÍ¥±”€µ½É”€µÉÉ½ÉÑ¥½¸M¥±•¹Ñ±å½¹Ñ¥¹Õ”ô…Ñ íô(€€€ô)ô((Œ€´´´´´´´´´´´´´´´´ÉÕ¹ÍÁ…”Á½½°€´´´´´´´´´´´´´´´´(‘Á½½°€ômIÕ¹ÍÁ…•…Ñ½ÉåtèéÉ•…Ñ•IÕ¹ÍÁ…•A½½° Ä°€‘A…É…±±•°¤(‘Á½½°¹=Á•¸ ¤(‘ÉÕ¹¹¥¹œ€ô9•Üµ=‰©•ÐMåÍÑ•´¹½±±•Ñ¥½¹Ì¹ÉÉ…å1¥ÍÐ(‘¥¹±¥¡Ð€ô9•Üµ=‰©•Ð€MåÍÑ•´¹½±±•Ñ¥½¹Ì¹•¹•É¥Œ¹!…Í¡M•ÑmÍÑÉ¥¹tœ€¡mMÑÉ¥¹½µÁ…É•Étèé=É‘¥¹…±%¹½É•…Í”¤((‘±…ÍÑMÕµµ…Éä€ô€ˆˆ()™Õ¹Ñ¥½¸]É¥Ñ”µ5…¹¥™•ÍÐ ‘½‰¨¤ì(€€€€‘ÍÉÕÉMÑÈ€ô€ˆˆ(€€€€‘½ÕÑÕÉMÑÈ€ô€ˆˆ(€€€¥˜€ ‘¹Õ±°€µ¹”€‘½‰¨¹MÉÕÈ¤ì€‘ÍÉÕÉMÑÈ€ôm5…Ñ¡tèéI½Õ¹¡m‘½Õ‰±•t‘½‰¨¹MÉÕÈ°€È¤¹Q½MÑÉ¥¹œ ¤ô(€€€¥˜€ ‘¹Õ±°€µ¹”€‘½‰¨¹=ÕÑÕÈ¤ì€‘½ÕÑÕÉMÑÈ€ôm5…Ñ¡tèéI½Õ¹¡m‘½Õ‰±•t‘½‰¨¹=ÕÑÕÈ°€È¤¹Q½MÑÉ¥¹œ ¤ô((€€€€‘¹½Ñ•M…™”€ô€¡½…±•Í”€‘½‰¨¹9½Ñ”€ˆˆ¤€µÉ•Á±…”€œˆœ°œˆˆœ((€€€€‘±¥¹”€ô€ìÁô±ìÅô°‰ìÉôˆ±ìÍô±ìÑô±ìÕô±ìÙô±ìÝô±ìáô°‰ìåôˆœ€µ˜€(€€€€€€€€‘•¹Øé=5AUQI95°€(€€€€€€€€¡½…±•Í”€‘½‰¨¹MÑ…ÑÕÌ€‰%0ˆ¤°€(€€€€€€€€ ¡½…±•Í”€‘½‰¨¹I•±A…Ñ €ˆˆ¤€µÉ•Á±…”€œˆœ°œˆˆœ¤°€(€€€€€€€€¡½…±•Í”€‘½‰¨¹MÉM¥é•5€ˆˆ¤°€(€€€€€€€€¡½…±•Í”€‘½‰¨¹=ÕÑM¥é•5€ˆˆ¤°€(€€€€€€€€‘ÍÉÕÉMÑÈ°€(€€€€€€€€‘½ÕÑÕÉMÑÈ°€(€€€€€€€€¡½…±•Í”€‘½‰¨¹¥•±‘=É‘•È€ˆˆ¤°€(€€€€€€€€¡½…±•Í”€‘½‰¨¹•¥¹Ð€ˆˆ¤°€(€€€€€€€€‘¹½Ñ•M…™”((€€€€‘±¥¹”ð=ÕÐµ¥±”€µ¥±•A…Ñ €‘µ…¹¥™•ÍÑA…Ñ €µÁÁ•¹€µ¹½‘¥¹œUQà)ô()™Õ¹Ñ¥½¸I•¹‘•Èµ…Í¡‰½…Éì(€€€¥˜€ µ¹½Ð€‘M¡½Ý½¹Í½±•MÑ…ÑÕÌ¤ìÉ•ÑÕÉ¸ô(€€€ÑÉäì(€€€€€€€€‘ÅÕ•Õ•½Õ¹Ð€ô(€€€€€€€€€€€€¡•Ðµ¡¥±‘%Ñ•´€µA…Ñ €‘AÉ½•ÍÍI½½Ð€µI•ÕÉÍ”€µ¥±”€µÉÉ½ÉÑ¥½¸M¥±•¹Ñ±å½¹Ñ¥¹Õ”ð(€€€€€€€€€€€€]¡•É”µ=‰©•Ðì(€€€€€€€€€€€€€€€€‘¥¹±Õ‘•%¹EÕ•Õ”€ô€‘ÑÉÕ”(€€€€€€€€€€€€€€€¥˜€ µ¹½Ð€ ‘Ù¥‘•½áÐ€µ½¹Ñ…¥¹Ì€‘|¹áÑ•¹Í¥½¸¹Q½1½Ý•É%¹Ù…É¥…¹Ð ¤¤¤ì€‘¥¹±Õ‘•%¹EÕ•Õ”€ô€‘™…±Í”ô((€€€€€€€€€€€€€€€¥˜€ ‘¥¹±Õ‘•%¹EÕ•Õ”¤ì(€€€€€€€€€€€€€€€€€€€€‘É•±D€ô•ÐµI•°€‘AÉ½•ÍÍI½½Ð€‘|¹Õ±±9…µ”(€€€€€€€€€€€€€€€€€€€¥˜€ µ¹½Ð€‘É•±D¤ì€‘¥¹±Õ‘•%¹EÕ•Õ”€ô€‘™…±Í”ô(€€€€€€€€€€€€€€€€€€€•±Í•¥˜€¡%Ìµ%¹Ñ•É¹…±AÉ½•ÍÍI•°€‘É•±D¤ì€‘¥¹±Õ‘•%¹EÕ•Õ”€ô€‘™…±Í”ô(€€€€€€€€€€€€€€€€€€€•±Í•¥˜€¡Q•ÍÐµA…Ñ €µ1¥Ñ•É…±A…Ñ €¡•ÐµAÉ½•ÍÍ•‘5…É­•ÉA…Ñ €‘É•±D¤¤ì€‘¥¹±Õ‘•%¹EÕ•Õ”€ô€‘™…±Í”ô(€€€€€€€€€€€€€€€€€€€•±Í•¥˜€¡%Ìµ…¥±ÕÉ•	…­½™™Ñ¥Ù”€‘É•±D¤ì€‘¥¹±Õ‘•%¹EÕ•Õ”€ô€‘™…±Í”ô(€€€€€€€€€€€€€€€ô((€€€€€€€€€€€€€€€€‘¥¹±Õ‘•%¹EÕ•Õ”(€€€€€€€€€€€€ô¤¹½Õ¹Ð((€€€€€€€±•…Èµ!½ÍÐ(€€€€€€€]É¥Ñ”µ!½ÍÐ€ ‰mìÁõtÑ¥Ù”èìÅô½ìÉôðEMXDõìÍôðEÕ•Õ”èìÑôˆ€µ˜€¡•Ðµ…Ñ”€µ½Éµ…Ð€‰! éµ´éÍÌˆ¤°€‘ÉÕ¹¹¥¹œ¹½Õ¹Ð°€‘A…É…±±•°°€‘EÍÙEÕ…±¥Ñä°€‘ÅÕ•Õ•½Õ¹Ð¤(€€€€€€€¥˜€ ‘±…ÍÑMÕµµ…Éä¤ì]É¥Ñ”µ!½ÍÐ€ ‰1…ÍÐèìÁôˆ€µ˜€‘±…ÍÑMÕµµ…Éä¤ô(€€€€€€€]É¥Ñ”µ!½ÍÐ€ˆˆ((€€€€€€€€‘¥‘à€ô€Ä(€€€€€€€™½É•… € ‘È¥¸€ ‘ÉÕ¹¹¥¹œðM½ÉÐµ=‰©•ÐMÑ…ÉÐ¤¤ì(€€€€€€€€€€€€‘Í˜€ô)½¥¸µA…Ñ €‘ÍÑ…ÑÕÍ¥È€ ‰©½‰}ìÁô¹ÑáÐˆ€µ˜€‘È¹)½‰%¤(€€€€€€€€€€€€‘ÍÑ…Ñ”€ô€‰IU99%9ˆ(€€€€€€€€€€€€‘É•°€€€ô€ˆ¡ÍÑ…ÉÑ¥¹œ¤ˆ(€€€€€€€€€€€€‘¹½Ñ”€€ô€ˆˆ(€€€€€€€€€€€€‘•±…ÁÍ•€ô½Éµ…Ðµ±…ÁÍ•€‘È¹MÑ…ÉÐ((€€€€€€€€€€€¥˜€¡Q•ÍÐµA…Ñ €µ1¥Ñ•É…±A…Ñ €‘Í˜¤ì(€€€€€€€€€€€€€€€€‘±¥¹”€ô€¡•Ðµ½¹Ñ•¹Ð€µ1¥Ñ•É…±A…Ñ €‘Í˜€µÉÉ½ÉÑ¥½¸M¥±•¹Ñ±å½¹Ñ¥¹Õ”ðM•±•Ðµ=‰©•Ð€µ¥ÉÍÐ€Ä¤(€€€€€€€€€€€€€€€¥˜€ ‘±¥¹”¤ì(€€€€€€€€€€€€€€€€€€€€‘Á…ÉÑÌ€ô€‘±¥¹”€µÍÁ±¥Ð€qðœ°€Ð(€€€€€€€€€€€€€€€€€€€¥˜€ ‘Á…ÉÑÌ¹½Õ¹Ð€µ”€Ì¤ì(€€€€€€€€€€€€€€€€€€€€€€€€‘ÍÑ…Ñ”€ô€‘Á…ÉÑÍlÁt(€€€€€€€€€€€€€€€€€€€€€€€€‘É•°€€€ô€‘Á…ÉÑÍlÉt(€€€€€€€€€€€€€€€€€€€€€€€¥˜€ ‘Á…ÉÑÌ¹½Õ¹Ð€µ”€Ð¤ì€‘¹½Ñ”€ô€‘Á…ÉÑÍlÍtô(€€€€€€€€€€€€€€€€€€€ô(€€€€€€€€€€€€€€€ô(€€€€€€€€€€€ô((€€€€€€€€€€€¥˜€ ‘¹½Ñ”¤ì(€€€€€€€€€€€€€€€]É¥Ñ”µ!½ÍÐ€ ˆ€€ìÁôìÄ°´ÄÁôìÉô€€¡ìÍô¤€ìÑôˆ€µ˜€‘¥‘à°€‘ÍÑ…Ñ”°€‘É•°°€‘•±…ÁÍ•°€‘¹½Ñ”¤(€€€€€€€€€€€ô•±Í”ì(€€€€€€€€€€€€€€€]É¥Ñ”µ!½ÍÐ€ ˆ€€ìÁôìÄ°´ÄÁôìÉô€€¡ìÍô¤ˆ€µ˜€‘¥‘à°€‘ÍÑ…Ñ”°€‘É•°°€‘•±…ÁÍ•¤(€€€€€€€€€€€ô(€€€€€€€€€€€€‘¥‘à¬¬(€€€€€€€ô((€€€€€€€¥˜€ ‘ÉÕ¹¹¥¹œ¹½Õ¹Ð€µ•Ä€À¤ì(€€€€€€€€€€€]É¥Ñ”µ!½ÍÐ€ˆ€€¡¥‘±”¤ˆ(€€€€€€€ô(€€€ô…Ñ ìô)ô()™Õ¹Ñ¥½¸MÑ…ÉÐµ)½ˆ¡mÍÑÉ¥¹t‘ÍÉŒ¤ì(€€€€‘©½‰%€ômÕ¥‘tèé9•ÝÕ¥ ¤¹Q½MÑÉ¥¹œ ‰8ˆ¤(€€€€‘ÁÌ€ômA½Ý•ÉM¡•±±tèéÉ•…Ñ” ¤(€€€€‘ÁÌ¹IÕ¹ÍÁ…•A½½°€ô€‘Á½½°(€€€€‘¹Õ±°€ô€‘ÁÌ¹‘‘MÉ¥ÁÐ ‘Ý½É­•ÉMÉ¥ÁÐ¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘©½‰%¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘ÍÉŒ¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘AÉ½•ÍÍI½½Ð¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘=ÕÑÁÕÑI½½Ð¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘EÕ…É…¹Ñ¥¹•I½½Ð¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘=ÕÑÁÕÑ½¹Ñ…¥¹•È¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘EÍÙEÕ…±¥Ñä¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘µÁ•á”¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘ÁÉ½‰•á”¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘1½…±Q•µÁI½½Ð¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘ÍÑ…ÑÕÍ¥È¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘5…áÕÉ…Ñ¥½¹•±Ñ…M•½¹‘Ì¤¸(€€€€€€€‘‘ÉÕµ•¹Ð ‘5¥¹M¥é•I…Ñ¥¼¤¸(€€€€€€€‘‘ÉÕµ•¹Ð¡m‰½½±t‘M­¥Á%™=ÕÑÁÕÑá¥ÍÑÌ¤((€€€€‘ €ô€‘ÁÌ¹	•¥¹%¹Ù½­” ¤(€€€€‘¹Õ±°€ô€‘ÉÕ¹¹¥¹œ¹‘¡mÁÍÕÍÑ½µ½‰©•Ñuì(€€€€€€€ALô‘ÁÌì!…¹‘±”ô‘ ìMÉŒô‘ÍÉŒì)½‰%ô‘©½‰%ìMÑ…ÉÐô¡•Ðµ…Ñ”¤(€€€ô¤)ô()I•¹‘•Èµ…Í¡‰½…É()™Õ¹Ñ¥½¸%Í%¹Ñ•É¹…±I…ÝA…Ñ ì(€€€Á…É…´¡mÍÑÉ¥¹t‘A…Ñ ¤((€€€€‘¹½Éµ…±¥é•€ô€‘A…Ñ €µÉ•Á±…”€œ¼œ°€pœ(€€€€‘É½½Ð€ô€‘AÉ½•ÍÍI½½Ð¹QÉ¥µ¹ pœ¤(€€€É•ÑÕÉ¸€ (€€€€€€€€‘¹½Éµ…±¥é•€µ±¥­”€ˆ‘É½½Ñq}ÍÑ…Ñ•p¨ˆ€µ½È(€€€€€€€€‘¹½Éµ…±¥é•€µ±¥­”€ˆ‘É½½Ñq}AI=MMp¨ˆ(€€€€¤)ô()Ý¡¥±”€ ‘ÑÉÕ”¤ì((€€€€Œ¥±°Í±½ÑÌ(€€€Ý¡¥±”€ ‘ÉÕ¹¹¥¹œ¹½Õ¹Ð€µ±Ð€‘A…É…±±•°¤ì(€€€€€€€€‘…¹‘¥‘…Ñ•Ì€ô(€€€€€€€€€€€•Ðµ¡¥±‘%Ñ•´€µA…Ñ €‘AÉ½•ÍÍI½½Ð€µI•ÕÉÍ”€µ¥±”€µÉÉ½ÉÑ¥½¸M¥±•¹Ñ±å½¹Ñ¥¹Õ”ð(€€€€€€€€€€€]¡•É”µ=‰©•Ðì(€€€€€€€€€€€€€€€€ ‘Ù¥‘•½áÐ€µ½¹Ñ…¥¹Ì€‘|¹áÑ•¹Í¥½¸¹Q½1½Ý•É%¹Ù…É¥…¹Ð ¤¤€µ…¹(€€€€€€€€€€€€€€€€ ‘|¹9…µ”€µ¹½Ñµ…Ñ €p¸¡Á…ÉÑñÑµÀ¤œ¤(€€€€€€€€€€€ôð(€€€€€€€€€€€M½ÉÐµ=‰©•ÐÕ±±9…µ”((€€€€€€€€‘Á¥­•€ô€‘¹Õ±°(€€€€€€€™½É•… € ‘˜¥¸€‘…¹‘¥‘…Ñ•Ì¤ì(€€€€€€€€€€€¥˜€ ‘¥¹±¥¡Ð¹½¹Ñ…¥¹Ì ‘˜¹Õ±±9…µ”¤¤ì½¹Ñ¥¹Õ”ô((€€€€€€€€€€€€‘É•°€ô•ÐµI•°€‘AÉ½•ÍÍI½½Ð€‘˜¹Õ±±9…µ”(€€€€€€€€€€€¥˜€ µ¹½Ð€‘É•°¤ì½¹Ñ¥¹Õ”ô(€€€€€€€€€€€¥˜€¡%Ìµ%¹Ñ•É¹…±AÉ½•ÍÍI•°€‘É•°¤ì½¹Ñ¥¹Õ”ô((€€€€€€€€€€€€Œ%˜…±É•…‘äµ…É­•ÁÉ½•ÍÍ•°¥¹½É”™½É•Ù•È(€€€€€€€€€€€€‘ÁÉ½•ÍÍ•‘5…É­•È€ô•ÐµAÉ½•ÍÍ•‘5…É­•ÉA…Ñ €‘É•°(€€€€€€€€€€€¥˜€¡Q•ÍÐµA…Ñ €µ1¥Ñ•É…±A…Ñ €‘ÁÉ½•ÍÍ•‘5…É­•È¤ì½¹Ñ¥¹Õ”ô((€€€€€€€€€€€€Œ%˜„ÁÉ•Ù¥½ÕÌÁ±…¥¸%0¡…ÁÁ•¹•É••¹Ñ±ä°¡½¹½ÈÑ¡”½¹™¥ÕÉ•É•ÑÉä‰…­½™˜(€€€€€€€€€€€¥˜€¡%Ìµ…¥±ÕÉ•	…­½™™Ñ¥Ù”€‘É•°¤ì½¹Ñ¥¹Õ”ô((€€€€€€€€€€€€Œ%˜½ÕÑÁÕÐ…±É•…‘ä•á¥ÍÑÌ°µ…É¬ÁÉ½•ÍÍ•€¡…¹½ÁÑ¥½¹…±±äµ½Ù”½ÕÐ½˜I\¤(€€€€€€€€€€€¥˜€ ‘M­¥Á%™=ÕÑÁÕÑá¥ÍÑÌ¤ì(€€€€€€€€€€€€€€€€‘•áÁ•Ñ•‘=ÕÐ€ô•ÐµáÁ•Ñ•‘=ÕÑÁÕÑA…Ñ €‘É•°(€€€€€€€€€€€€€€€¥˜€¡Q•ÍÐµA…Ñ €µ1¥Ñ•É…±A…Ñ €‘•áÁ•Ñ•‘=ÕÐ¤ì(€€€€€€€€€€€€€€€€€€€ÑÉäì€ ‰ìÁô=ÕÑÁÕÐ•á¥ÍÑÌèìÅôˆ€µ˜€¡•Ðµ…Ñ”¤°€‘•áÁ•Ñ•‘=ÕÐ¤ð=ÕÐµ¥±”€µ¥±•A…Ñ €‘ÁÉ½•ÍÍ•‘5…É­•È€µ¹½‘¥¹œUQà€µ½É”ô…Ñ íô(€€€€€€€€€€€€€€€€€€€1½œ€ ‰5I,AI=MM€¡½ÕÑÁÕÐ•á¥ÍÑÌ¤èìÁôˆ€µ˜€‘É•°¤((€€€€€€€€€€€€€€€€€€€¥˜€ ‘5½Ù•±É•…‘å¹½‘•‘Q½AÉ½•ÍÍ•¤ì(€€€€€€€€€€€€€€€€€€€€€€€5½Ù”µQ½AÉ½•ÍÍ•€µÍÉÕ±°€‘˜¹Õ±±9…µ”€µÉ•°€‘É•°(€€€€€€€€€€€€€€€€€€€€€€€1½œ€ ‰5=YÑ¼}AI=MMèìÁôˆ€µ˜€‘É•°¤(€€€€€€€€€€€€€€€€€€€ô(€€€€€€€€€€€€€€€€€€€½¹Ñ¥¹Õ”(€€€€€€€€€€€€€€€ô(€€€€€€€€€€€ô((€€€€€€€€€€€€ŒMÑ…‰±”½ÁäÕ…É(€€€€€€€€€€€¥˜€ µ¹½Ð€¡%Ìµ¥±•MÑ…‰±”€µA…Ñ €‘˜¹Õ±±9…µ”€µMÑ…‰±•M•½¹‘Ì€‘MÑ…‰±•M•½¹‘Ì¤¤ì½¹Ñ¥¹Õ”ô((€€€€€€€€€€€€‘Á¥­•€ô€‘˜¹Õ±±9…µ”(€€€€€€€€€€€‰É•…¬(€€€€€€€ô((€€€€€€€¥˜€ µ¹½Ð€‘Á¥­•¤ì‰É•…¬ô((€€€€€€€€‘¥¹±¥¡Ð¹‘ ‘Á¥­•¤ð=ÕÐµ9Õ±°(€€€€€€€1½œ€ ‰MQIPèìÁôˆ€µ˜€‘Á¥­•¤(€€€€€€€MÑ…ÉÐµ)½ˆ€‘Á¥­•(€€€€€€€I•¹‘•Èµ…Í¡‰½…É(€€€ô((€€€€Œ½±±•Ð™¥¹¥Í¡•(€€€™½È€ ‘¤€ô€‘ÉÕ¹¹¥¹œ¹½Õ¹Ð€´€Äì€‘¤€µ”€Àì€‘¤´´¤ì(€€€€€€€€‘È€ô€‘ÉÕ¹¹¥¹l‘¥t(€€€€€€€¥˜€ ‘È¹!…¹‘±”¹%Í½µÁ±•Ñ•¤ì(€€€€€€€€€€€€‘½‰¨€ô€‘¹Õ±°(€€€€€€€€€€€ÑÉäì€‘½‰¨€ô€‘È¹AL¹¹‘%¹Ù½­” ‘È¹!…¹‘±”¤ô…Ñ ì(€€€€€€€€€€€€€€€€‘½‰¨€ômÁÍÕÍÑ½µ½‰©•ÑuìMÑ…ÑÕÌô‰%0ˆìI•±A…Ñ ôˆ¡Õ¹­¹½Ý¸¤ˆì9½Ñ”ô‰¹‘%¹Ù½­”™…¥±•ˆìÉÉQ•áÐô‘|¹á•ÁÑ¥½¸¹5•ÍÍ…”ô(€€€€€€€€€€€ô((€€€€€€€€€€€€‘È¹AL¹¥ÍÁ½Í” ¤(€€€€€€€€€€€€‘ÉÕ¹¹¥¹œ¹I•µ½Ù•Ð ‘¤¤(€€€€€€€€€€€€‘¥¹±¥¡Ð¹I•µ½Ù” ‘È¹MÉŒ¤ð=ÕÐµ9Õ±°((€€€€€€€€€€€¥˜€ ‘½‰¨€µ¥ÌmMåÍÑ•´¹ÉÉ…åt¤ì€‘½‰¨€ô€‘½‰©lÁtô((€€€€€€€€€€€€‘ÍÑ…ÑÕÌ€ô½…±•Í”€‘½‰¨¹MÑ…ÑÕÌ€‰%0ˆ(€€€€€€€€€€€€‘É•°€€€€ô½…±•Í”€‘½‰¨¹I•±A…Ñ €ˆ¡Õ¹­¹½Ý¸¤ˆ(€€€€€€€€€€€€‘¹½Ñ”€€€ô½…±•Í”€‘½‰¨¹9½Ñ”€ˆˆ((€€€€€€€€€€€]É¥Ñ”µ5…¹¥™•ÍÐ€‘½‰¨((€€€€€€€€€€€¥˜€ ‘ÍÑ…ÑÕÌ€µ•Ä€‰=9ˆ¤ì(€€€€€€€€€€€€€€€€‘±…ÍÑMÕµµ…Éä€ô€ ‰=9ìÁôðìÅõ5€´øìÉõ5ìÍôˆ€µ˜€‘É•°°€¡½…±•Í”€‘½‰¨¹MÉM¥é•5€ˆˆ¤°€¡½…±•Í”€‘½‰¨¹=ÕÑM¥é•5€ˆˆ¤°€‘¹½Ñ”¤¹QÉ¥´ ¤(€€€€€€€€€€€€€€€1½œ€ ‰=9èìÁôðìÅõ5€´øìÉõ5ðìÍôˆ€µ˜€‘É•°°€¡½…±•Í”€‘½‰¨¹MÉM¥é•5€ˆˆ¤°€¡½…±•Í”€‘½‰¨¹=ÕÑM¥é•5€ˆˆ¤°€‘¹½Ñ”¤((€€€€€€€€€€€€€€€±•…Èµ…¥±•‘5…É­•È€‘É•°((€€€€€€€€€€€€€€€€Œ5…É¬ÁÉ½•ÍÍ•Í¼I\‘½•Í¸Ð•ÐÉ”µÍ…¹¹•™½É•Ù•È(€€€€€€€€€€€€€€€€‘ÁÉ½•ÍÍ•‘5…É­•È€ô•ÐµAÉ½•ÍÍ•‘5…É­•ÉA…Ñ €‘É•°(€€€€€€€€€€€€€€€ÑÉäì€ ‰ìÁô=9ˆ€µ˜€¡•Ðµ…Ñ”¤¤ð=ÕÐµ¥±”€µ¥±•A…Ñ €‘ÁÉ½•ÍÍ•‘5…É­•È€µ¹½‘¥¹œUQà€µ½É”ô…Ñ íô((€€€€€€€€€€€€€€€¥˜€ ‘=¹MÕ•ÍÌ€µ•Ä€‰µ½Ù”ˆ¤ì(€€€€€€€€€€€€€€€€€€€€‘ÍÉÕ±°€ô)½¥¸µA…Ñ €‘AÉ½•ÍÍI½½Ð€‘É•°(€€€€€€€€€€€€€€€€€€€¥˜€¡Q•ÍÐµA…Ñ €µ1¥Ñ•É…±A…Ñ €‘ÍÉÕ±°¤ì(€€€€€€€€€€€€€€€€€€€€€€€5½Ù”µQ½AÉ½•ÍÍ•€µÍÉÕ±°€‘ÍÉÕ±°€µÉ•°€‘É•°(€€€€€€€€€€€€€€€€€€€€€€€1½œ€ ‰5=YÑ¼}AI=MMèìÁôˆ€µ˜€‘É•°¤(€€€€€€€€€€€€€€€€€€€ô(€€€€€€€€€€€€€€€ô(€€€€€€€€€€€ô(€€€€€€€€€€€•±Í•¥˜€ ‘ÍÑ…ÑÕÌ€µ•Ä€‰M-%@ˆ¤ì(€€€€€€€€€€€€€€€€‘±…ÍÑMÕµµ…Éä€ô€ ‰M-%@ìÁôðìÅôˆ€µ˜€‘É•°°€‘¹½Ñ”¤¹QÉ¥´ ¤(€€€€€€€€€€€€€€€1½œ€ ‰M-%@èìÁôðìÅôˆ€µ˜€‘É•°°€‘¹½Ñ”¤((€€€€€€€€€€€€€€€±•…Èµ…¥±•‘5…É­•È€‘É•°((€€€€€€€€€€€€€€€€Œ5…É¬ÁÉ½•ÍÍ•½¸M-%@Ñ½¼€¡ÁÉ•Ù•¹ÑÌ•¹‘±•ÍÌM-%@±½½ÁÌ¤(€€€€€€€€€€€€€€€€‘ÁÉ½•ÍÍ•‘5…É­•È€ô•ÐµAÉ½•ÍÍ•‘5…É­•ÉA…Ñ €‘É•°(€€€€€€€€€€€€€€€ÑÉäì€ ‰ìÁôM-%@ìÅôˆ€µ˜€¡•Ðµ…Ñ”¤°€‘¹½Ñ”¤ð=ÕÐµ¥±”€µ¥±•A…Ñ €‘ÁÉ½•ÍÍ•‘5…É­•È€µ¹½‘¥¹œUQà€µ½É”ô…Ñ íô(€€€€€€€€€€€ô(€€€€€€€€€€€•±Í•¥˜€ ‘ÍÑ…ÑÕÌ€µ•Ä€‰EUI9Q%9ˆ¤ì(€€€€€€€€€€€€€€€€‘±…ÍÑMÕµµ…Éä€ô€ ‰EUI9Q%9ìÁôðìÅôˆ€µ˜€‘É•°°€‘¹½Ñ”¤¹QÉ¥´ ¤(€€€€€€€€€€€€€€€1½ÉÈ€ ‰EUI9Q%9èìÁôðìÅôˆ€µ˜€‘É•°°€‘¹½Ñ”¤((€€€€€€€€€€€€€€€±•…Èµ…¥±•‘5…É­•È€‘É•°((€€€€€€€€€€€€€€€€‘Å9½Ñ”€ô)½¥¸µA…Ñ €‘EÕ…É…¹Ñ¥¹•I½½Ð€ ¡M…™”µ5…É­•É9…µ”€‘É•°¤€¬€ˆ¹ÑáÐˆ¤(€€€€€€€€€€€€€€€  (€€€€€€€€€€€€€€€€€€€€ ‰I•±A…Ñ èìÁôˆ€µ˜€‘É•°¤°(€€€€€€€€€€€€€€€€€€€€ ‰I•…Í½¸è€ìÁôˆ€µ˜€‘¹½Ñ”¤°(€€€€€€€€€€€€€€€€€€€€ ‰¥•±‘=É‘•ÈèìÁôˆ€µ˜€¡½…±•Í”€‘½‰¨¹¥•±‘=É‘•È€ˆˆ¤¤°(€€€€€€€€€€€€€€€€€€€€ ‰•¥¹Ðè€€ìÁôˆ€µ˜€¡½…±•Í”€‘½‰¨¹•¥¹Ð€ˆˆ¤¤°(€€€€€€€€€€€€€€€€€€€€ ‰MÉM¥é•5èìÁôˆ€µ˜€¡½…±•Í”€‘½‰¨¹MÉM¥é•5€ˆˆ¤¤°(€€€€€€€€€€€€€€€€€€€€ ‰=ÕÑM¥é•5èìÁôˆ€µ˜€¡½…±•Í”€‘½‰¨¹=ÕÑM¥é•5€ˆˆ¤¤°(€€€€€€€€€€€€€€€€€€€€ˆˆ°(€€€€€€€€€€€€€€€€€€€€‰ÉÉ½ÉQ•áÐèˆ°(€€€€€€€€€€€€€€€€€€€€¡½…±•Í”€‘½‰¨¹ÉÉQ•áÐ€ˆˆ¤(€€€€€€€€€€€€€€€€¤ð=ÕÐµ¥±”€µ¥±•A…Ñ €‘Å9½Ñ”€µ¹½‘¥¹œUQà€µ½É”((€€€€€€€€€€€€€€€€‘ÍÉÕ±°€ô)½¥¸µA…Ñ €‘AÉ½•ÍÍI½½Ð€‘É•°(€€€€€€€€€€€€€€€¥˜€¡Q•ÍÐµA…Ñ €µ1¥Ñ•É…±A…Ñ €‘ÍÉÕ±°¤ì(€€€€€€€€€€€€€€€€€€€5½Ù”µQ½EÕ…É…¹Ñ¥¹”€µÍÉÕ±°€‘ÍÉÕ±°€µÉ•°€‘É•°(€€€€€€€€€€€€€€€€€€€1½ÉÈ€ ‰EUI9Q%9M=UI5=YèìÁôˆ€µ˜€‘É•°¤(€€€€€€€€€€€€€€€ô(€€€€€€€€€€€ô(€€€€€€€€€€€•±Í”ì(€€€€€€€€€€€€€€€€‘±…ÍÑMÕµµ…Éä€ô€ ‰%0ìÁôðìÅôˆ€µ˜€‘É•°°€‘¹½Ñ”¤¹QÉ¥´ ¤(€€€€€€€€€€€€€€€1½ÉÈ€ ‰%0èìÁôðìÅôˆ€µ˜€‘É•°°€‘¹½Ñ”¤(€€€€€€€€€€€€€€€]É¥Ñ”µ…¥±•‘5…É­•È€µÉ•°€‘É•°€µ¹½Ñ”€‘¹½Ñ”€µ•ÉÉQ•áÐ€¡½…±•Í”€‘½‰¨¹ÉÉQ•áÐ€ˆˆ¤(€€€€€€€€€€€€€€€¥˜€ ‘…¥±	…­½™™5¥¹ÕÑ•Ì€µÐ€À¤ì(€€€€€€€€€€€€€€€€€€€1½ÉÈ€ ‰%0	-=èìÁôÝ¥±°‰”Í­¥ÁÁ•™½ÈìÅôµ¥¹ÕÑ”¡Ì¤ˆ€µ˜€‘É•°°€‘…¥±	…­½™™5¥¹ÕÑ•Ì¤(€€€€€€€€€€€€€€€ô(€€€€€€€€€€€ô((€€€€€€€€€€€I•¹‘•Èµ…Í¡‰½…É(€€€€€€€ô(€€€ô((€€€I•¹‘•Èµ…Í¡‰½…É(€€€MÑ…ÉÐµM±••À€µM•½¹‘Ì€‘A½±±M•½¹‘Ì)ô((Œ¹½ÐÉ•…¡•(‘Á½½°¹±½Í” ¤(‘Á½½°¹¥ÍÁ½Í” ¤(
+        forea×«h‘éì¶»§q«^t       $result.Status = "FAIL"
+                    $result.Note = "FFmpeg success but temp output missing"
+                    $result.ErrText = $stderr1.Trim()
+                    Set-Status "FAIL" $rel $result.Note
+                    return [pscustomobject]$result
+                }
+            }
+        }
+        finally {
+            if (Test-Path -LiteralPath $stderr1File) { Remove-Item -LiteralPath $stderr1File -Force -ErrorAction SilentlyContinue }
+            if (Test-Path -LiteralPath $stderr2File) { Remove-Item -LiteralPath $stderr2File -Force -ErrorAction SilentlyContinue }
+        }
+
+        Move-Item -LiteralPath $tempOut -Destination $tempFinalLocal -Force
+        Set-Status "VALIDATING" $rel ""
+
+        # Validations
+        $srcDur = Get-DurationInner $FFprobeExe $SrcFull
+        $outDur = Get-DurationInner $FFprobeExe $tempFinalLocal
+        $result.SrcDur = $srcDur
+        $result.OutDur = $outDur
+
+        if ($srcDur -and $outDur) {
+            $delta = [Math]::Abs($srcDur - $outDur)
+            if ($delta -gt $MaxDurationDeltaSeconds) {
+                $result.Status = "QUARANTINE"
+                $result.Note = ("Duration mismatch (delta {0}s)" -f $delta)
+                Set-Status "QUARANTINE" $rel $result.Note
+                return [pscustomobject]$result
+            }
+        }
+
+        $dt = Decode-TestInner $FFmpegExe $tempFinalLocal
+        if (-not $dt.Ok) {
+            $result.Status = "QUARANTINE"
+            $result.Note = "Decode test failed"
+            $result.ErrText = $dt.Text
+            Set-Status "QUARANTINE" $rel $result.Note
+            return [pscustomobject]$result
+        }
+
+        if ($dt.ContainsKey("WarningOnly") -and $dt.WarningOnly) {
+            if ([string]::IsNullOrWhiteSpace($result.Note)) {
+                $result.Note = "Decode validation passed with ignorable DTS warnings"
+            } else {
+                $result.Note = ($result.Note + " | Decode validation passed with ignorable DTS warnings")
+            }
+        }
+
+        $outSize = (Get-Item -LiteralPath $tempFinalLocal).Length
+        $result.OutSizeMB = [Math]::Round($outSize / 1MB, 1)
+
+        $ratio = 0.0
+        if ($srcSize -gt 0) { $ratio = [double]$outSize / [double]$srcSize }
+
+        # Resolution-aware minimum output ratio:
+        #  - SD (<=576): 5%
+        #  - 720p (<=720): 5%
+        #  - 1080p+: 5%
+        $hTxt = & $FFprobeExe -v error -select_streams v:0 -show_entries stream=height -of default=nw=1:nk=1 $SrcFull 2>$null
+        $height = 0
+        if ($hTxt) { [int]::TryParse($hTxt.Trim(), [ref]$height) | Out-Null }
+
+        $minRatioEffective = $MinSizeRatio
+        if ($height -gt 0) {
+            if ($height -le 576) { $minRatioEffective = 0.05 }
+            elseif ($height -le 720) { $minRatioEffective = 0.05 }
+            else { $minRatioEffective = 0.05 }
+        }
+
+        if ($ratio -lt $minRatioEffective) {
+            $result.Status = "QUARANTINE"
+            $result.Note = ("Output too small (ratio {0:P0}, min {1:P0}, height {2})" -f $ratio, $minRatioEffective, $height)
+            Set-Status "QUARANTINE" $rel $result.Note
+            return [pscustomobject]$result
+        }
+
+        Set-Status "COPYING" $rel ""
+
+        # Copy to the destination as .part, then rename to the final file.
+        $destPart = $destFinal + ".part"
+        if (Test-Path -LiteralPath $destPart) { Remove-Item -LiteralPath $destPart -Force -ErrorAction SilentlyContinue }
+
+        Copy-Item -LiteralPath $tempFinalLocal -Destination $destPart -Force
+
+        if (Test-Path -LiteralPath $destFinal) { Remove-Item -LiteralPath $destFinal -Force -ErrorAction SilentlyContinue }
+        Move-Item -LiteralPath $destPart -Destination $destFinal -Force
+
+        $result.Status = "DONE"
+        Set-Status "DONE" $rel ""
+
+        # Cleanup local temp output
+        try { Remove-Item -LiteralPath $tempFinalLocal -Force -ErrorAction SilentlyContinue } catch {}
+
+        return [pscustomobject]$result
+    }
+    catch {
+        $result.Status = "FAIL"
+        $result.Note = "Exception"
+        $result.ErrText = $_.Exception.Message
+        Set-Status "FAIL" (CoalesceInner $result.RelPath "(unknown)") $result.Note
+        return [pscustomobject]$result
+    }
+    finally {
+        try { Remove-Item -LiteralPath $statusFile -Force -ErrorAction SilentlyContinue } catch {}
+    }
+}
+
+# ---------------- runspace pool ----------------
+$pool = [RunspaceFactory]::CreateRunspacePool(1, $Parallel)
+$pool.Open()
+$running = New-Object System.Collections.ArrayList
+$inFlight = New-Object 'System.Collections.Generic.HashSet[string]' ([StringComparer]::OrdinalIgnoreCase)
+
+$lastSummary = ""
+
+function Write-Manifest($obj) {
+    $srcDurStr = ""
+    $outDurStr = ""
+    if ($null -ne $obj.SrcDur) { $srcDurStr = [Math]::Round([double]$obj.SrcDur, 2).ToString() }
+    if ($null -ne $obj.OutDur) { $outDurStr = [Math]::Round([double]$obj.OutDur, 2).ToString() }
+
+    $noteSafe = (Coalesce $obj.Note "") -replace '"','""'
+
+    $line = '{0},{1},"{2}",{3},{4},{5},{6},{7},{8},"{9}"' -f `
+        $env:COMPUTERNAME, `
+        (Coalesce $obj.Status "FAIL"), `
+        ((Coalesce $obj.RelPath "") -replace '"','""'), `
+        (Coalesce $obj.SrcSizeMB ""), `
+        (Coalesce $obj.OutSizeMB ""), `
+        $srcDurStr, `
+        $outDurStr, `
+        (Coalesce $obj.FieldOrder ""), `
+        (Coalesce $obj.Deint ""), `
+        $noteSafe
+
+    $line | Out-File -FilePath $manifestPath -Append -Encoding UTF8
+}
+
+function Render-Dashboard {
+    if (-not $ShowConsoleStatus) { return }
+    try {
+        $queueCount =
+            (Get-ChildItem -Path $ProcessRoot -Recurse -File -ErrorAction SilentlyContinue |
+             Where-Object {
+                $includeInQueue = $true
+                if (-not ($videoExt -contains $_.Extension.ToLowerInvariant())) { $includeInQueue = $false }
+
+                if ($includeInQueue) {
+                    $relQ = Get-Rel $ProcessRoot $_.FullName
+                    if (-not $relQ) { $includeInQueue = $false }
+                    elseif (Is-InternalProcessRel $relQ) { $includeInQueue = $false }
+                    elseif (Test-Path -LiteralPath (Get-ProcessedMarkerPath $relQ)) { $includeInQueue = $false }
+                    elseif (Is-FailureBackoffActive $relQ) { $includeInQueue = $false }
+                }
+
+                $includeInQueue
+             }).Count
+
+        Clear-Host
+        Write-Host ("[{0}] Active: {1}/{2} | QSV Q={3} | Queue: {4}" -f (Get-Date -Format "HH:mm:ss"), $running.Count, $Parallel, $QsvQuality, $queueCount)
+        if ($lastSummary) { Write-Host ("Last: {0}" -f $lastSummary) }
+        Write-Host ""
+
+        $idx = 1
+        foreach ($r in ($running | Sort-Object Start)) {
+            $sf = Join-Path $statusDir ("job_{0}.txt" -f $r.JobId)
+            $state = "RUNNING"
+            $rel   = "(starting)"
+            $note  = ""
+            $elapsed = Format-Elapsed $r.Start
+
+            if (Test-Path -LiteralPath $sf) {
+                $line = (Get-Content -LiteralPath $sf -ErrorAction SilentlyContinue | Select-Object -First 1)
+                if ($line) {
+                    $parts = $line -split '\|', 4
+                    if ($parts.Count -ge 3) {
+                        $state = $parts[0]
+                        $rel   = $parts[2]
+                        if ($parts.Count -ge 4) { $note = $parts[3] }
+                    }
+                }
+            }
+
+            if ($note) {
+                Write-Host ("  #{0} {1,-10} {2}  ({3})  {4}" -f $idx, $state, $rel, $elapsed, $note)
+            } else {
+                Write-Host ("  #{0} {1,-10} {2}  ({3})" -f $idx, $state, $rel, $elapsed)
+            }
+            $idx++
+        }
+
+        if ($running.Count -eq 0) {
+            Write-Host "  (idle)"
+        }
+    } catch { }
+}
+
+function Start-Job([string]$src) {
+    $jobId = [Guid]::NewGuid().ToString("N")
+    $ps = [PowerShell]::Create()
+    $ps.RunspacePool = $pool
+    $null = $ps.AddScript($workerScript).
+        AddArgument($jobId).
+        AddArgument($src).
+        AddArgument($ProcessRoot).
+        AddArgument($OutputRoot).
+        AddArgument($QuarantineRoot).
+        AddArgument($OutputContainer).
+        AddArgument($QsvQuality).
+        AddArgument($FFmpegExe).
+        AddArgument($FFprobeExe).
+        AddArgument($LocalTempRoot).
+        AddArgument($statusDir).
+        AddArgument($MaxDurationDeltaSeconds).
+        AddArgument($MinSizeRatio).
+        AddArgument([bool]$SkipIfOutputExists)
+
+    $h = $ps.BeginInvoke()
+    $null = $running.Add([pscustomobject]@{
+        PS=$ps; Handle=$h; Src=$src; JobId=$jobId; Start=(Get-Date)
+    })
+}
+
+Render-Dashboard
+
+function IsInternalRawPath {
+    param([string]$Path)
+
+    $normalized = $Path -replace '/', '\'
+    $root = $ProcessRoot.TrimEnd('\')
+    return (
+        $normalized -like "$root\_state\*" -or
+        $normalized -like "$root\_PROCESSED\*"
+    )
+}
+
+while ($true) {
+
+    # Fill slots
+    while ($running.Count -lt $Parallel) {
+        $candidates =
+            Get-ChildItem -Path $ProcessRoot -Recurse -File -ErrorAction SilentlyContinue |
+            Where-Object {
+                ($videoExt -contains $_.Extension.ToLowerInvariant()) -and
+                ($_.Name -notmatch '\.(part|tmp)$')
+            } |
+            Sort-Object FullName
+
+        $picked = $null
+        foreach ($f in $candidates) {
+            if ($inFlight.Contains($f.FullName)) { continue }
+
+            $rel = Get-Rel $ProcessRoot $f.FullName
+            if (-not $rel) { continue }
+            if (Is-InternalProcessRel $rel) { continue }
+
+            # If already marked processed, ignore forever
+            $processedMarker = Get-ProcessedMarkerPath $rel
+            if (Test-Path -LiteralPath $processedMarker) { continue }
+
+            # If a previous plain FAIL happened recently, honor the configured retry backoff
+            if (Is-FailureBackoffActive $rel) { continue }
+
+            # If output already exists, mark processed (and optionally move out of RAW)
+            if ($SkipIfOutputExists) {
+                $expectedOut = Get-ExpectedOutputPath $rel
+                if (Test-Path -LiteralPath $expectedOut) {
+                    try { ("{0} Output exists: {1}" -f (Get-Date), $expectedOut) | Out-File -FilePath $processedMarker -Encoding UTF8 -Force } catch {}
+                    Log ("MARK PROCESSED (output exists): {0}" -f $rel)
+
+                    if ($MoveAlreadyEncodedToProcessed) {
+                        Move-ToProcessed -srcFull $f.FullName -rel $rel
+                        Log ("MOVED to _PROCESSED: {0}" -f $rel)
+                    }
+                    continue
+                }
+            }
+
+            # Stable copy guard
+            if (-not (Is-FileStable -Path $f.FullName -StableSeconds $StableSeconds)) { continue }
+
+            $picked = $f.FullName
+            break
+        }
+
+        if (-not $picked) { break }
+
+        $inFlight.Add($picked) | Out-Null
+        Log ("START: {0}" -f $picked)
+        Start-Job $picked
+        Render-Dashboard
+    }
+
+    # Collect finished
+    for ($i = $running.Count - 1; $i -ge 0; $i--) {
+        $r = $running[$i]
+        if ($r.Handle.IsCompleted) {
+            $obj = $null
+            try { $obj = $r.PS.EndInvoke($r.Handle) } catch {
+                $obj = [pscustomobject]@{ Status="FAIL"; RelPath="(unknown)"; Note="EndInvoke failed"; ErrText=$_.Exception.Message }
+            }
+
+            $r.PS.Dispose()
+            $running.RemoveAt($i)
+            $inFlight.Remove($r.Src) | Out-Null
+
+            if ($obj -is [System.Array]) { $obj = $obj[0] }
+
+            $status = Coalesce $obj.Status "FAIL"
+            $rel    = Coalesce $obj.RelPath "(unknown)"
+            $note   = Coalesce $obj.Note ""
+
+            Write-Manifest $obj
+
+            if ($status -eq "DONE") {
+                $lastSummary = ("DONE {0} | {1}MB -> {2}MB {3}" -f $rel, (Coalesce $obj.SrcSizeMB ""), (Coalesce $obj.OutSizeMB ""), $note).Trim()
+                Log ("DONE: {0} | {1}MB -> {2}MB | {3}" -f $rel, (Coalesce $obj.SrcSizeMB ""), (Coalesce $obj.OutSizeMB ""), $note)
+
+                Clear-FailedMarker $rel
+
+                # Mark processed so RAW doesn't get re-scanned forever
+                $processedMarker = Get-ProcessedMarkerPath $rel
+                try { ("{0} DONE" -f (Get-Date)) | Out-File -FilePath $processedMarker -Encoding UTF8 -Force } catch {}
+
+                if ($OnSuccess -eq "move") {
+                    $srcFull = Join-Path $ProcessRoot $rel
+                    if (Test-Path -LiteralPath $srcFull) {
+                        Move-ToProcessed -srcFull $srcFull -rel $rel
+                        Log ("MOVED to _PROCESSED: {0}" -f $rel)
+                    }
+                }
+            }
+            elseif ($status -eq "SKIP") {
+                $lastSummary = ("SKIP {0} | {1}" -f $rel, $note).Trim()
+                Log ("SKIP: {0} | {1}" -f $rel, $note)
+
+                Clear-FailedMarker $rel
+
+                # Mark processed on SKIP too (prevents endless SKIP loops)
+                $processedMarker = Get-ProcessedMarkerPath $rel
+                try { ("{0} SKIP {1}" -f (Get-Date), $note) | Out-File -FilePath $processedMarker -Encoding UTF8 -Force } catch {}
+            }
+            elseif ($status -eq "QUARANTINE") {
+                $lastSummary = ("QUARANTINE {0} | {1}" -f $rel, $note).Trim()
+                LogErr ("QUARANTINE: {0} | {1}" -f $rel, $note)
+
+                Clear-FailedMarker $rel
+
+                $qNote = Join-Path $QuarantineRoot ((Safe-MarkerName $rel) + ".txt")
+                @(
+                    ("RelPath: {0}" -f $rel),
+                    ("Reason:  {0}" -f $note),
+                    ("FieldOrder: {0}" -f (Coalesce $obj.FieldOrder "")),
+                    ("Deint:   {0}" -f (Coalesce $obj.Deint "")),
+                    ("SrcSizeMB: {0}" -f (Coalesce $obj.SrcSizeMB "")),
+                    ("OutSizeMB: {0}" -f (Coalesce $obj.OutSizeMB "")),
+                    "",
+                    "ErrorText:",
+                    (Coalesce $obj.ErrText "")
+                ) | Out-File -FilePath $qNote -Encoding UTF8 -Force
+
+                $srcFull = Join-Path $ProcessRoot $rel
+                if (Test-Path -LiteralPath $srcFull) {
+                    Move-ToQuarantine -srcFull $srcFull -rel $rel
+                    LogErr ("QUARANTINED SOURCE MOVED: {0}" -f $rel)
+                }
+            }
+            else {
+                $lastSummary = ("FAIL {0} | {1}" -f $rel, $note).Trim()
+                LogErr ("FAIL: {0} | {1}" -f $rel, $note)
+                Write-FailedMarker -rel $rel -note $note -errText (Coalesce $obj.ErrText "")
+                if ($FailBackoffMinutes -gt 0) {
+                    LogErr ("FAIL BACKOFF: {0} will be skipped for {1} minute(s)" -f $rel, $FailBackoffMinutes)
+                }
+            }
+
+            Render-Dashboard
+        }
+    }
+
+    Render-Dashboard
+    Start-Sleep -Seconds $PollSeconds
+}
+
+# not reached
+$pool.Close()
+$pool.Dispose()
+BˆÈ[[]ZXÚÈÞ[˜ÈÛÛ™\\ƒB

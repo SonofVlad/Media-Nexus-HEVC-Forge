@@ -1,4 +1,5 @@
 @echo off
+REM Intel Quick Sync launcher
 setlocal EnableExtensions
 
 REM ============================================================
