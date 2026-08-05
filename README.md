@@ -69,17 +69,15 @@ For 4K sources, start with roughly half the suggested 1080p value. Deinterlacing
 
 H.265/HEVC is generally more efficient than H.264, but every conversion is different. These are practical estimates for ordinary H.264 sources; they are not guaranteed results.
 
-| Source and setting | Expected file-size reduction | Estimated perceived quality reduction |
-|---|---:|---:|
-| Typical source at `QSVQUALITY=20` | 55–75% | 0–8% |
-| Clean or easy-to-compress source at `QSVQUALITY=20` | 65–80% | 0–8% |
-| Grainy, noisy, dark, or high-motion source at `QSVQUALITY=20` | 30–60% | 3–12% |
+| Converter | Quality setting | File-size reduction | Quality reduction |
+|---|---:|---:|---:|
+| Intel QSV | 20 | ~66% | ~5% |
+| NVIDIA NVENC | 25 | ~68% | ~5% |
+| AMD AMF | 26 | ~62% | ~5% |
 
-In real use, the Intel launcher's default `QSVQUALITY=20` commonly produces files about **66% smaller**, meaning the output is roughly **33% of the original file size**, with an estimated **0–8% perceived quality reduction**. NVIDIA NVENC may produce different results depending on the GPU generation and encoder preset, so its expected range will be refined after testing.
+The quality percentage is a plain-language visual estimate, not a direct measurement. Re-encoding is always lossy, even when the difference is difficult to see. Results vary with the source, GPU generation, encoder preset, and other conversion settings.
 
-The quality percentage is a plain-language visual estimate, not a direct measurement. Re-encoding is always lossy, even when the difference is difficult to see. Animation, film grain, dark scenes, fast motion, low-bitrate sources, and already heavily compressed files may behave very differently. An efficient source may shrink by less than 15%, fail to shrink at all, or become larger.
-
-Test several representative videos before converting a library. Compare motion, dark scenes, fine texture, subtitles, and audio in the result. If quality loss is noticeable, use a higher-quality setting; if the files are not becoming small enough, choose a more aggressive setting. Intel notes that HEVC generally provides additional compression over H.264 without requiring a corresponding visible quality loss, but exact results depend on the source and encoder configuration.
+Test several representative videos before converting a library. Compare motion, dark scenes, fine texture, subtitles, and audio in the result. If quality loss is noticeable, use a higher-quality setting; if the files are not becoming small enough, choose a more aggressive setting.
 
 ## Shared monitor
 
