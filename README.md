@@ -69,13 +69,13 @@ For 4K sources, start with roughly half the suggested 1080p value. Deinterlacing
 
 H.265/HEVC is generally more efficient than H.264, but every conversion is different. These are practical estimates for ordinary H.264 sources; they are not guaranteed results.
 
-| Conversion goal | Expected file-size reduction | Estimated perceived quality reduction |
+| Source and setting | Expected file-size reduction | Estimated perceived quality reduction |
 |---|---:|---:|
-| High quality | 15–35% | 0–5% |
-| Balanced | 30–50% | 3–10% |
-| Maximum space savings | 50–70% | 10–25% |
+| Typical source at `QSVQUALITY=20` | 55–75% | 0–8% |
+| Clean or easy-to-compress source at `QSVQUALITY=20` | 65–80% | 0–8% |
+| Grainy, noisy, dark, or high-motion source at `QSVQUALITY=20` | 30–60% | 3–12% |
 
-With the Intel launcher's default `QSVQUALITY=20`, a reasonable first expectation is approximately **25–50% smaller files** with roughly **0–8% perceived quality reduction**. NVIDIA NVENC should generally fall within similar ranges when configured for comparable quality, although results vary by GPU generation and encoder preset.
+In real use, the Intel launcher's default `QSVQUALITY=20` commonly produces files about **66% smaller**, meaning the output is roughly **33% of the original file size**, with an estimated **0–8% perceived quality reduction**. NVIDIA NVENC may produce different results depending on the GPU generation and encoder preset, so its expected range will be refined after testing.
 
 The quality percentage is a plain-language visual estimate, not a direct measurement. Re-encoding is always lossy, even when the difference is difficult to see. Animation, film grain, dark scenes, fast motion, low-bitrate sources, and already heavily compressed files may behave very differently. An efficient source may shrink by less than 15%, fail to shrink at all, or become larger.
 
