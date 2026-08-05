@@ -35,6 +35,36 @@ The converter watches for supported video files, encodes them with Intel Quick S
 
 > Test with copied media first. Depending on the selected settings and validation result, source files can be moved into `_PROCESSED` or quarantine.
 
+## Suggested concurrent conversions
+
+The batch files use `PARALLEL` to control how many videos are converted at once. The values below are conservative starting points for typical 1080p H.264-to-HEVC conversions. They are recommendations, not guaranteed hardware limits.
+
+### Intel Quick Sync
+
+| Intel generation | Suggested `PARALLEL` | Notes |
+|---|---:|---|
+| 6th–7th generation Core | 1 | Earliest Intel generations with hardware HEVC support; start with one job. |
+| 8th–10th generation Core | 1–2 | Try two only after confirming stable temperatures and playback-quality output. |
+| 11th–14th generation Core | 2–4 | Start at two, then increase one job at a time while watching GPU Video Encode usage. |
+| Core Ultra or Intel Arc graphics | 3–6 | Newer media engines generally handle more parallel work, but model and cooling still matter. |
+
+Intel Core processors without enabled processor graphics cannot use Quick Sync. Confirm support for the exact processor and keep the integrated GPU enabled. Intel documents HEVC support and generation-specific media capabilities in its [Intel hardware media capabilities guide](https://www.intel.com/content/www/us/en/docs/onevpl/developer-reference-media-intel-hardware/1-0/overview.html).
+
+### NVIDIA NVENC
+
+| NVIDIA GPU generation | Examples | Suggested `PARALLEL` |
+|---|---|---:|
+| Maxwell 2nd generation | GTX 900 series | 1–2 |
+| Pascal | GTX 10 series | 2–3 |
+| Turing | GTX 16 and RTX 20 series | 2–4 |
+| Ampere | RTX 30 series | 3–5 |
+| Ada Lovelace | RTX 40 series | 4–6 |
+| Blackwell | RTX 50 series | 4–8 |
+
+NVENC capacity varies within a generation because some GPUs contain more than one encoder engine. NVIDIA also applies concurrent-session limits to some consumer GPUs. Its current documentation says non-qualified GPUs are limited to eight concurrent encode sessions per system, while qualified GPUs are limited by available hardware resources. See NVIDIA's [NVENC application note](https://docs.nvidia.com/video-technologies/video-codec-sdk/13.0/nvenc-application-note/index.html) and verify the exact GPU before raising `PARALLEL`.
+
+For 4K sources, start with roughly half the suggested 1080p value. Deinterlacing, 10-bit video, slow storage, multiple audio streams, or demanding quality settings may require reducing it further. Increase by one job at a time; if total throughput stops improving, temperatures rise excessively, or jobs become unstable, return to the previous value.
+
 ## Shared monitor
 
 The monitor is hardware-independent. It can display logs from Intel Quick Sync, AMD AMF, and NVIDIA NVENC converters as long as they use the same `Watcher_*.log` naming and logging format.
