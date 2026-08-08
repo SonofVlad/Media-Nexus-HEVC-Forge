@@ -39,24 +39,24 @@ Run the launcher for your hardware. Enter the input, output, and quarantine fold
 
 ## Suggested concurrent conversions
 
-These are conservative starting points for 1080p video. Use roughly half as many jobs for 4K.
+These are conservative starting points for 1080p video. Release years are approximate; use roughly half as many jobs for 4K.
 
-| Platform | Hardware generation | Suggested `PARALLEL` |
-|---|---|---:|
-| Intel | Core 6th–7th generation | 1 |
-| Intel | Core 8th–10th generation | 1–2 |
-| Intel | Core 11th–14th generation | 2–4 |
-| Intel | Core Ultra or Arc | 3–6 |
-| AMD | Ryzen 2000G–3000G with Radeon graphics | 1 |
-| AMD | Ryzen 4000G–5000G with Radeon graphics | 1–2 |
-| AMD | Ryzen 6000–8000 with Radeon graphics | 2–4 |
-| AMD | Ryzen AI 300 with Radeon graphics | 2–4 |
-| NVIDIA | Maxwell 2 | 1–2 |
-| NVIDIA | Pascal | 2–3 |
-| NVIDIA | Turing | 2–4 |
-| NVIDIA | Ampere | 3–5 |
-| NVIDIA | Ada | 4–6 |
-| NVIDIA | Blackwell | 4–8 |
+| Platform | Hardware generation | Approx. release years | Suggested `PARALLEL` |
+|---|---|---:|---:|
+| Intel | Core 6th–7th generation | 2015–2017 | 1 |
+| Intel | Core 8th–10th generation | 2017–2020 | 1–2 |
+| Intel | Core 11th–14th generation | 2020–2024 | 2–4 |
+| Intel | Core Ultra or Arc | 2022–present | 3–6 |
+| AMD | Ryzen 2000G–3000G with Radeon graphics | 2018–2020 | 1 |
+| AMD | Ryzen 4000G–5000G with Radeon graphics | 2020–2022 | 1–2 |
+| AMD | Ryzen 6000–8000 with Radeon graphics | 2022–2024 | 2–4 |
+| AMD | Ryzen AI 300 with Radeon graphics | 2024–2025 | 2–4 |
+| NVIDIA | Maxwell 2 | 2014–2016 | 1–2 |
+| NVIDIA | Pascal | 2016–2018 | 2–3 |
+| NVIDIA | Turing | 2018–2020 | 2–4 |
+| NVIDIA | Ampere | 2020–2022 | 3–5 |
+| NVIDIA | Ada | 2022–2024 | 4–6 |
+| NVIDIA | Blackwell | 2025–present | 4–8 |
 
 AMD AMF uses Radeon graphics. A Ryzen CPU without supported integrated graphics requires a compatible Radeon graphics card.
 
